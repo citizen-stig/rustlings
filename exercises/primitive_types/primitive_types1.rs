@@ -11,7 +11,7 @@ fn main() {
     }
 
     let is_event = false;// Finish the rest of this line like the example! Or make it be false!
-    if is_evening {
+    if is_event {
         println!("Good evening!");
     }
 }
